@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "o1KLAV93Oy3bJPChJkIAeT9tB1GAbKvEQqifz3w+V6I=",
+  "Source": "LazarB_SayHelloEndpoint",
+  "BasePath": "_content/LazarB_SayHelloEndpoint",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
